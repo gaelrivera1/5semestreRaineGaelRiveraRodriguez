@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "785c8a6af32296f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed5a21bc3258fa26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93f32057e4a8f60c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "telecomunicaciones/unidad 2/día 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "656bce4dee525afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "49b7579cce75c29a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5727deb53faa012c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "502055df70e77ab4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c6997fbe4a490a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2fed46b67ea10880",
+    "type": "split",
+    "children": [
+      {
+        "id": "7132fca2754f3ed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0fb28af3a7fdccf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "telecomunicaciones/unidad 2/día 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d70349abdd44d68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "telecomunicaciones/unidad 2/día 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5752708b02ba93c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e040817fab0f766",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "telecomunicaciones/unidad 2/día 3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "93f32057e4a8f60c",
+  "lastOpenFiles": [
+    "telecomunicaciones/unidad 2/día 3.md",
+    "telecomunicaciones/unidad 2/Modelo OSi.md",
+    "telecomunicaciones/unidad 2/día 2.md",
+    "arquitectura de computadoras/unidad 2/día 1.md",
+    "arquitectura de computadoras/unidad 2",
+    "arquitectura de computadoras/dia 1.md",
+    "arquitectura de computadoras",
+    "telecomunicaciones/unidad 2/día 1.md",
+    "telecomunicaciones/unidad 1/día 5.md",
+    "telecomunicaciones/unidad 1",
+    "telecomunicaciones/unidad 2",
+    "telecomunicaciones/unidad 1/FM y AM.md",
+    "telecomunicaciones/unidad 1/métodos guiados y no guiados.md",
+    "telecomunicaciones/unidad 1/conceptos basicos.md",
+    "telecomunicaciones/unidad 1/espectro de frecuencia.md",
+    "telecomunicaciones/unidad 1/sistemas de comunicacion.md",
+    "telecomunicaciones/unidad 1/ruido y distorcion.md",
+    "telecomunicaciones/temario.md",
+    "telecomunicaciones/unidad 1/Imagen de WhatsApp 2024-09-03 a las 07.46.04_15e06a96.jpg",
+    "telecomunicaciones.md",
+    "telecomunicaciones",
+    "telecomunicaciones/unidad 1/20240827_075832.jpg",
+    "telecomunicaciones/unidad 1/20240827_082331.jpg"
+  ]
+}
