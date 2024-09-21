@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "telecomunicaciones/unidad 2/día 3.md",
+                "file": "telecomunicaciones/unidad 2/dia 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telecomunicaciones/unidad 2/día 3.md",
+                "file": "telecomunicaciones/unidad 2/dia 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "telecomunicaciones/unidad 2/día 3.md",
+                "file": "telecomunicaciones/unidad 2/dia 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "telecomunicaciones/unidad 2/día 3.md"
+                "file": "telecomunicaciones/unidad 2/dia 5.md"
               }
             }
           }
@@ -148,28 +148,37 @@
   },
   "active": "93f32057e4a8f60c",
   "lastOpenFiles": [
-    "telecomunicaciones/unidad 2/día 3.md",
+    "telecomunicaciones/unidad 2/día 4.md",
+    "telecomunicaciones/unidad 2/dia 5.md",
+    "telecomunicaciones/unidad 2/día 1.md",
+    "telecomunicaciones/unidad 2/Pasted image 20240918072945.png",
     "telecomunicaciones/unidad 2/Modelo OSi.md",
     "telecomunicaciones/unidad 2/día 2.md",
+    "telecomunicaciones/unidad 2/día 3.md",
+    "telecomunicaciones/unidad 1/espectro de frecuencia.md",
+    "telecomunicaciones/unidad 2/Pasted image 20240912073000.png",
+    "telecomunicaciones/unidad 2/Pasted image 20240912075338.png",
+    "telecomunicaciones/unidad 2/Pasted image 20240912075218.png",
+    "telecomunicaciones/unidad 2/Pasted image 20240912074232.png",
+    "telecomunicaciones/unidad 2/Pasted image 20240912073941.png",
+    "telecomunicaciones/unidad 2/Pasted image 20240912073910.png",
+    "telecomunicaciones/unidad 2/Pasted image 20240912073629.png",
+    "telecomunicaciones/unidad 2/Pasted image 20240912073619.png",
+    "telecomunicaciones/unidad 2/Pasted image 20240912073515.png",
     "arquitectura de computadoras/unidad 2/día 1.md",
     "arquitectura de computadoras/unidad 2",
     "arquitectura de computadoras/dia 1.md",
     "arquitectura de computadoras",
-    "telecomunicaciones/unidad 2/día 1.md",
     "telecomunicaciones/unidad 1/día 5.md",
     "telecomunicaciones/unidad 1",
     "telecomunicaciones/unidad 2",
     "telecomunicaciones/unidad 1/FM y AM.md",
     "telecomunicaciones/unidad 1/métodos guiados y no guiados.md",
     "telecomunicaciones/unidad 1/conceptos basicos.md",
-    "telecomunicaciones/unidad 1/espectro de frecuencia.md",
     "telecomunicaciones/unidad 1/sistemas de comunicacion.md",
     "telecomunicaciones/unidad 1/ruido y distorcion.md",
     "telecomunicaciones/temario.md",
-    "telecomunicaciones/unidad 1/Imagen de WhatsApp 2024-09-03 a las 07.46.04_15e06a96.jpg",
     "telecomunicaciones.md",
-    "telecomunicaciones",
-    "telecomunicaciones/unidad 1/20240827_075832.jpg",
-    "telecomunicaciones/unidad 1/20240827_082331.jpg"
+    "telecomunicaciones"
   ]
 }
