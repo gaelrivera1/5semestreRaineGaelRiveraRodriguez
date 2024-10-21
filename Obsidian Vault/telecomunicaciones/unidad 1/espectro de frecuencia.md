@@ -13,4 +13,4 @@
     
 6. **Microondas**: Longitudes de onda entre 1 milímetro y 1 metro, con frecuencias entre (10^{9}) y (10^{12}) Hz. Se usan en comunicaciones inalámbricas, radares y hornos microondas.
     
-7. **Ondas de Radio**: Tienen las longitudes de onda más largas (más de 1 metro) y las frecuencias más bajas (menos de (10^{9}) Hz). [Se utilizan en la radiodifusión, televisión y comunicaciones móviles](https://concepto.de/espectro-electromagnetico/)[1](https://concepto.de/espectro-electromagnetico/)[2](https://www.euston96.com/espectro-electromagnetico/).
+7. **Ondas de Radio**: Tienen las longitudes de onda más largas (más de 1 metro) y las frecuencias más bajas (menos de (10^{9}) Hz).

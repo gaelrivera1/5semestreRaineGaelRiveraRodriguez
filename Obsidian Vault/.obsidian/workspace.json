@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5a21bc3258fa26",
+        "id": "8af9c9e8acb40f63",
         "type": "tabs",
         "children": [
           {
-            "id": "93f32057e4a8f60c",
+            "id": "d9d45ff446e247fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "telecomunicaciones/unidad 2/dia 5.md",
+                "file": "arquitectura de computadoras/unidad 2/Día 2.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "4d770ada4f90cd12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telecomunicaciones/unidad 2/dia 5.md",
+                "file": "arquitectura de computadoras/unidad 2/Día 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "telecomunicaciones/unidad 2/dia 5.md",
+                "file": "arquitectura de computadoras/unidad 2/Día 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "telecomunicaciones/unidad 2/dia 5.md"
+                "file": "arquitectura de computadoras/unidad 2/Día 2.md"
               }
             }
           }
@@ -146,30 +154,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "93f32057e4a8f60c",
+  "active": "d9d45ff446e247fa",
   "lastOpenFiles": [
-    "telecomunicaciones/unidad 2/día 4.md",
+    "arquitectura de computadoras/unidad 2/día 1.md",
+    "arquitectura de computadoras/unidad 2/actividad 2.2.md",
+    "telecomunicaciones/unidad 3/día 3.md",
+    "telecomunicaciones/unidad 3/día 2.md",
+    "telecomunicaciones/unidad 3/día 1.md",
+    "telecomunicaciones/unidad 3/Conceptos básicos de la fibra óptica.md",
+    "arquitectura de computadoras/unidad 2/Día 2.md",
     "telecomunicaciones/unidad 2/dia 5.md",
+    "telecomunicaciones/unidad 2/día 4.md",
+    "telecomunicaciones/unidad 2/día 2.md",
+    "telecomunicaciones/unidad 3/Pasted image 20240926074252.jpg",
+    "telecomunicaciones/unidad 3/Pasted image 20241010080019.png",
+    "telecomunicaciones/unidad 3/Pasted image 20241010075514.png",
+    "telecomunicaciones/unidad 3/Pasted image 20241010073821.png",
+    "telecomunicaciones/unidad 3/Pasted image 20241009122123.png",
+    "Sin título.canvas",
+    "telecomunicaciones/unidad 1/Imagen de WhatsApp 2024-09-03 a las 07.46.04_15e06a96.jpg",
+    "telecomunicaciones/unidad 1/espectro de frecuencia.md",
+    "telecomunicaciones/unidad 1/día 5.md",
+    "telecomunicaciones/unidad 2/día 3.md",
     "telecomunicaciones/unidad 2/día 1.md",
+    "telecomunicaciones/unidad 3",
     "telecomunicaciones/unidad 2/Pasted image 20240918072945.png",
     "telecomunicaciones/unidad 2/Modelo OSi.md",
-    "telecomunicaciones/unidad 2/día 2.md",
-    "telecomunicaciones/unidad 2/día 3.md",
-    "telecomunicaciones/unidad 1/espectro de frecuencia.md",
     "telecomunicaciones/unidad 2/Pasted image 20240912073000.png",
     "telecomunicaciones/unidad 2/Pasted image 20240912075338.png",
     "telecomunicaciones/unidad 2/Pasted image 20240912075218.png",
-    "telecomunicaciones/unidad 2/Pasted image 20240912074232.png",
-    "telecomunicaciones/unidad 2/Pasted image 20240912073941.png",
-    "telecomunicaciones/unidad 2/Pasted image 20240912073910.png",
-    "telecomunicaciones/unidad 2/Pasted image 20240912073629.png",
-    "telecomunicaciones/unidad 2/Pasted image 20240912073619.png",
-    "telecomunicaciones/unidad 2/Pasted image 20240912073515.png",
-    "arquitectura de computadoras/unidad 2/día 1.md",
     "arquitectura de computadoras/unidad 2",
     "arquitectura de computadoras/dia 1.md",
     "arquitectura de computadoras",
-    "telecomunicaciones/unidad 1/día 5.md",
     "telecomunicaciones/unidad 1",
     "telecomunicaciones/unidad 2",
     "telecomunicaciones/unidad 1/FM y AM.md",
