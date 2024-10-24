@@ -13,10 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arquitectura de computadoras/unidad 2/Día 2.md",
+                "file": "telecomunicaciones/unidad 3/Conceptos básicos de la fibra óptica.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Conceptos básicos de la fibra óptica"
+            }
+          },
+          {
+            "id": "ab45d3a73a5c44b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arquitectura de computadoras/unidad 2/actividad 2.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "actividad 2.2"
             }
           },
           {
@@ -24,10 +40,13 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -62,7 +83,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -70,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arquitectura de computadoras/unidad 2/Día 2.md",
+                "file": "arquitectura de computadoras/unidad 2/actividad 2.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de actividad 2.2"
             }
           },
           {
@@ -110,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arquitectura de computadoras/unidad 2/Día 2.md",
+                "file": "arquitectura de computadoras/unidad 2/actividad 2.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de actividad 2.2"
             }
           },
           {
@@ -124,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -133,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arquitectura de computadoras/unidad 2/Día 2.md"
-              }
+                "file": "arquitectura de computadoras/unidad 2/actividad 2.2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de actividad 2.2"
             }
           }
         ]
@@ -154,23 +187,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d9d45ff446e247fa",
+  "active": "ab45d3a73a5c44b5",
   "lastOpenFiles": [
-    "arquitectura de computadoras/unidad 2/día 1.md",
-    "arquitectura de computadoras/unidad 2/actividad 2.2.md",
-    "telecomunicaciones/unidad 3/día 3.md",
-    "telecomunicaciones/unidad 3/día 2.md",
     "telecomunicaciones/unidad 3/día 1.md",
-    "telecomunicaciones/unidad 3/Conceptos básicos de la fibra óptica.md",
-    "arquitectura de computadoras/unidad 2/Día 2.md",
-    "telecomunicaciones/unidad 2/dia 5.md",
-    "telecomunicaciones/unidad 2/día 4.md",
-    "telecomunicaciones/unidad 2/día 2.md",
-    "telecomunicaciones/unidad 3/Pasted image 20240926074252.jpg",
+    "telecomunicaciones/unidad 3/día 3.md",
     "telecomunicaciones/unidad 3/Pasted image 20241010080019.png",
     "telecomunicaciones/unidad 3/Pasted image 20241010075514.png",
     "telecomunicaciones/unidad 3/Pasted image 20241010073821.png",
     "telecomunicaciones/unidad 3/Pasted image 20241009122123.png",
+    "telecomunicaciones/unidad 3/Pasted image 20240926074252.jpg",
+    "telecomunicaciones/unidad 3/día 2.md",
+    "arquitectura de computadoras/unidad 2/Día 2.md",
+    "arquitectura de computadoras/unidad 2/día 1.md",
+    "arquitectura de computadoras/unidad 2/actividad 2.2.md",
+    "telecomunicaciones/unidad 3/Conceptos básicos de la fibra óptica.md",
+    "telecomunicaciones/unidad 2/dia 5.md",
+    "telecomunicaciones/unidad 2/día 4.md",
+    "telecomunicaciones/unidad 2/día 2.md",
     "Sin título.canvas",
     "telecomunicaciones/unidad 1/Imagen de WhatsApp 2024-09-03 a las 07.46.04_15e06a96.jpg",
     "telecomunicaciones/unidad 1/espectro de frecuencia.md",
