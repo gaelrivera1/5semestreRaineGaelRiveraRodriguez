@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9d45ff446e247fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "telecomunicaciones/unidad 3/Conceptos básicos de la fibra óptica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conceptos básicos de la fibra óptica"
-            }
-          },
-          {
             "id": "ab45d3a73a5c44b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arquitectura de computadoras/unidad 2/actividad 2.2.md",
+                "file": "arquitectura de computadoras/actividad de antenas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "actividad 2.2"
-            }
-          },
-          {
-            "id": "4d770ada4f90cd12",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "actividad de antenas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,6 +164,21 @@
   },
   "active": "ab45d3a73a5c44b5",
   "lastOpenFiles": [
+    "arquitectura de computadoras/unidad 2/definiciones.md",
+    "arquitectura de computadoras/unidad 2/día 1.md",
+    "arquitectura de computadoras/actividad de antenas.md",
+    "arquitectura de computadoras/unidad 2/día 3.md",
+    "Pasted image 20241029075819.png",
+    "telecomunicaciones/unidad 4/día 1.md",
+    "tipos de antenas 2.drawio.png",
+    "telecomunicaciones/unidad 4/Imagen de WhatsApp 2024-10-28 a las 07.38.31_f52df325.jpg",
+    "arquitectura de computadoras/unidad 2/Día 2.md",
+    "telecomunicaciones/unidad 1/ruido y distorcion.md",
+    "telecomunicaciones/unidad 1/espectro de frecuencia.md",
+    "telecomunicaciones/unidad 1/día 5.md",
+    "telecomunicaciones/unidad 3/Conceptos básicos de la fibra óptica.md",
+    "arquitectura de computadoras/unidad 2/actividad 2.2.md",
+    "telecomunicaciones/unidad 4",
     "telecomunicaciones/unidad 3/día 1.md",
     "telecomunicaciones/unidad 3/día 3.md",
     "telecomunicaciones/unidad 3/Pasted image 20241010080019.png",
@@ -197,25 +187,16 @@
     "telecomunicaciones/unidad 3/Pasted image 20241009122123.png",
     "telecomunicaciones/unidad 3/Pasted image 20240926074252.jpg",
     "telecomunicaciones/unidad 3/día 2.md",
-    "arquitectura de computadoras/unidad 2/Día 2.md",
-    "arquitectura de computadoras/unidad 2/día 1.md",
-    "arquitectura de computadoras/unidad 2/actividad 2.2.md",
-    "telecomunicaciones/unidad 3/Conceptos básicos de la fibra óptica.md",
     "telecomunicaciones/unidad 2/dia 5.md",
     "telecomunicaciones/unidad 2/día 4.md",
     "telecomunicaciones/unidad 2/día 2.md",
     "Sin título.canvas",
     "telecomunicaciones/unidad 1/Imagen de WhatsApp 2024-09-03 a las 07.46.04_15e06a96.jpg",
-    "telecomunicaciones/unidad 1/espectro de frecuencia.md",
-    "telecomunicaciones/unidad 1/día 5.md",
     "telecomunicaciones/unidad 2/día 3.md",
     "telecomunicaciones/unidad 2/día 1.md",
     "telecomunicaciones/unidad 3",
     "telecomunicaciones/unidad 2/Pasted image 20240918072945.png",
     "telecomunicaciones/unidad 2/Modelo OSi.md",
-    "telecomunicaciones/unidad 2/Pasted image 20240912073000.png",
-    "telecomunicaciones/unidad 2/Pasted image 20240912075338.png",
-    "telecomunicaciones/unidad 2/Pasted image 20240912075218.png",
     "arquitectura de computadoras/unidad 2",
     "arquitectura de computadoras/dia 1.md",
     "arquitectura de computadoras",
@@ -225,9 +206,6 @@
     "telecomunicaciones/unidad 1/métodos guiados y no guiados.md",
     "telecomunicaciones/unidad 1/conceptos basicos.md",
     "telecomunicaciones/unidad 1/sistemas de comunicacion.md",
-    "telecomunicaciones/unidad 1/ruido y distorcion.md",
-    "telecomunicaciones/temario.md",
-    "telecomunicaciones.md",
     "telecomunicaciones"
   ]
 }

@@ -5,7 +5,7 @@ El ruido se refiere a cualquier señal no deseada que se mezcla con la señal or
 1. **Ruido térmico**: Producido por el movimiento aleatorio de electrones en los conductores.
 2. **Ruido de intermodulación**: Ocurre cuando señales de diferentes frecuencias se mezclan, creando nuevas frecuencias que no estaban presentes en la señal original.
 3. **Ruido de disparo**: Asociado con la naturaleza discreta de la carga eléctrica.
-4. [**Ruido ambiental**: Proviene de fuentes externas como motores, maquinaria, y otros dispositivos electrónicos](https://psicologotorrejonvelasco.es/conoce-los-diferentes-tipos-de-ruidos-en-la-comunicacion/)[1](https://psicologotorrejonvelasco.es/conoce-los-diferentes-tipos-de-ruidos-en-la-comunicacion/).
+4. Ruido ambiental: Proviene de fuentes externas como motores, maquinaria, y otros dispositivos electrónicos
 
 El ruido puede ser difícil de eliminar completamente y puede afectar la calidad de la señal, haciendo que la información transmitida sea menos precisa.
 
